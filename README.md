@@ -5,6 +5,7 @@ The proposed solution focused on three main aspects - Transportation, Security, 
 
 “Be Sure It’s Secure” Claimed the 1st place out of 500+ participants in Intel ISEF Egypt competition in the embedded systems category.
 
-Full project explanation (youtube playlist): 
+Full project explanation (youtube playlist): https://www.youtube.com/playlist?list=PLhKWGWmjNjLrssLmJzslJu6kpvbO0lSSD
 
-3D designs : 
+3D designs : https://skfb.ly/6NozT
+
