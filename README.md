@@ -9,3 +9,6 @@ Full project explanation (youtube playlist): https://www.youtube.com/playlist?li
 
 3D designs : https://skfb.ly/6NozT
 
+## Image for the project after it was presented 
+
+![Image of the final project](/images/groupPic.JPG)
